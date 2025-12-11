@@ -1,2 +1,2 @@
-# mahi-gaming
-Descriptions of my work at MahiGaming from 2024-2026
+# Game and Tool Development at MahiGaming
+Descriptions of my game and tool development at MahiGaming from 2024-2026
