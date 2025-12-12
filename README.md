@@ -25,7 +25,7 @@ Copy, Cut, and Paste for Flowgraphs
 - Users can now select groups of nodes and copy, cut, and paste to more easily and more quickly create, duplicate, and organize game logic
 - Massively sped up and eased our development process
 
-Game Object Property Validation
+Property Validation
 - 
 - Made the editor check for bad references and values in object properties and warn if there are any
 - Was a necessary addition when implementing Copy/Paste as users could copy data between projects, which could result in broken references
