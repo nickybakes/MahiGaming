@@ -20,7 +20,7 @@ Advanced Search
 
 Copy, Cut, and Paste for Flowgraphs
 -
-- We utilize an internally developed flowgraph system for game logic, though it was clunky and slow to utilize
+- We utilize an internally developed flowgraph system for game logic, though the UX was clunky and slow
 - Based on other flowgraphs and editors I have used, I implemented functionality such as Copy, Cut, and Paste
 - Users can now select groups of nodes and copy, cut, and paste to more easily and more quickly create, duplicate, and organize game logic
 - Massively sped up and eased our development process
