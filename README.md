@@ -9,7 +9,7 @@ While working at MahiGaming from 2024-2026, I shipped 8 games and developed mult
 - Developed automated testing for features for QA teams to utilize
 
 # Internal Tools
-While shipping games, I would take note of pain points in the development process, and in between projects I would take in feedback from internal teams to develop tools that solved these issues and sped up our development process.
+While shipping games, I would take note of pain points in the development process, and in between projects I would take in feedback from our teams to develop tools that solved these issues and sped up our processes.
 
 Advanced Search
 -
