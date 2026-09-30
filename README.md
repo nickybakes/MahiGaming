@@ -1,5 +1,5 @@
 # Game and Tool Development at MahiGaming
-While working at MahiGaming from 2024-2026, I shipped 8 games and developed multiple internal tools to aid with and speed up development. Because of my NDA, I cannot provide explicit details or screenshots.
+While working at MahiGaming from June 2024 to December 2025, I shipped 8 games and developed multiple internal tools to aid with and speed up development. Because of my NDA, I cannot provide explicit details or screenshots.
 
 # Game Mechanics and Features
 - Developed in Typescript within an internal game engine
